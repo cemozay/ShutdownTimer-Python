@@ -2,6 +2,8 @@
 #### Description:
 ShutdownTimer-Python is a user-friendly Python application that allows you to set a timer for automatic computer shutdown. This application provides a comprehensive solution for managing your computer's power state with a simple and intuitive graphical user interface (GUI) built using the customtkinter library.
 
+![ScreenShot](https://github.com/cemozay/ShutdownTimer-Python/assets/78884331/0bd736ec-700a-494e-84d9-d44655b49194)
+
 ### Key Features:
 
 - **Flexible Shutdown Scheduling:** Set a timer for computer shutdown by specifying the number of hours and minutes, providing you with control over when your computer powers off.
